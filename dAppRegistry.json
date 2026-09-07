@@ -14,13 +14,6 @@
     "tags": ["dApp", "Tool"]
   },
   {
-    "name": "Stashh",
-    "link": "https://stashh.io/",
-    "description": "Mint, buy, and trade the first NFTs with native privacy and access control, known as Secret NFTs.",
-    "icon": "/img/dapps/dapp_stashh_1b5ff9f3a5_lo5nfGSI-6.webp",
-    "tags": ["dApp", "NFTs"]
-  },
-  {
     "name": "Zonescan",
     "link": "https://zonescan.io/secret/overview",
     "description": "A block explorer for the Cosmos ecosystem, developed by Cosmonaut Stakes",
@@ -33,20 +26,6 @@
     "description": "An array of connected privacy-preserving DeFi applications built on Secret Network.",
     "icon": "/img/dapps/dapp_shade_206fbe8b01_U9LBd0ib1-.webp",
     "tags": ["dApp", "DeFi"]
-  },
-  {
-    "name": "CertUP",
-    "link": "https://certup.net/",
-    "description": "Revolutionising official document distribution, verification and publication through Secret NFTs.",
-    "icon": "/img/dapps/Cert_UP_Logo_014ac8ed6b_1m7Lm6NPa.png",
-    "tags": ["dApp", "Data", "NFTs"]
-  },
-  {
-    "name": "PriFi Labs",
-    "link": "https://prifilabs.com/",
-    "description": "PriFi Labs experiments and designs trustless solutions to help businesses and users to have enhanced protection in Web3.",
-    "icon": "/img/dapps/prifiw_3f394c00a6_MQVbTriV0.png",
-    "tags": ["dApp", "Data"]
   },
   {
     "name": "Secret Bridges",
@@ -77,38 +56,10 @@
     "tags": ["Data"]
   },
   {
-    "name": "Alter",
-    "link": "https://altermail.live/",
-    "description": "A private and secure messaging app that protects your data and identity when communicating online. ",
-    "icon": "/img/dapps/alter_f51dbe4916_esXgp8g8j.webp",
-    "tags": ["dApp", "Communications"]
-  },
-  {
-    "name": "Serenity Shield",
-    "link": "https://serenityshield.io/",
-    "description": "Serenity Shield provides a tool for backing up your seed phrase and other sensitive data, allowing recovery in an emergency event.",
-    "icon": "/img/dapps/Serenity_Shield_Logo_0e5e4c6737_7GV7QGAFN.png",
-    "tags": ["dApp", "Data"]
-  },
-  {
-    "name": "Citadel.one",
-    "link": "https://app.citadel.one/login",
-    "description": "Citadel.One’s wallet simplifies staking, shows a transaction history, and other tools to get more out of your crypto.",
-    "icon": "/img/dapps/cone.webp",
-    "tags": ["Wallet"]
-  },
-  {
     "name": "Keplr Wallet",
     "link": "https://wallet.keplr.app/",
     "description": "The interchain wallet for the Cosmos ecosystem.",
     "icon": "/img/dapps/keplr.webp",
-    "tags": ["Wallet"]
-  },
-  {
-    "name": "Leap Wallet",
-    "link": "https://www.leapwallet.io/",
-    "description": "A wallet supporting many Cosmos chains, supporting both desktop and mobile devices.",
-    "icon": "/img/dapps/leapwallet.png",
     "tags": ["Wallet"]
   },
   {
@@ -117,20 +68,6 @@
     "description": "A block explorer for the Cosmos ecosystem, developed by Cosmostation.",
     "icon": "/img/dapps/mintscan.webp",
     "tags": ["Tool"]
-  },
-  {
-    "name": "Omniflix inSync",
-    "link": "https://secret.omniflix.co/",
-    "description": "A staking and governance dashboard.",
-    "icon": "/img/dapps/omni.webp",
-    "tags": ["Tool"]
-  },
-  {
-    "name": "PageDAO",
-    "link": "https://pagedao.org/",
-    "description": "Revolutionizing the literary economy with NFT Books.",
-    "icon": "/img/dapps/pageDAO.svg",
-    "tags": []
   },
   {
     "name": "Restake",
@@ -165,13 +102,6 @@
     "link": "https://www.silentswap.com/",
     "description": "Private cross chain swaps",
     "icon": "/img/dapps/silentswap.jpg",
-    "tags": ["Tool"]
-  },
-  {
-    "name": "Erth Network",
-    "link": "https://erth.network",
-    "description": "defi protocol that splits profits among verified humans.",
-    "icon": "/img/dapps/erthnetwork.jpg",
     "tags": ["Tool"]
   }
 ]
